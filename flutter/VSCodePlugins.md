@@ -1,0 +1,11 @@
+- Auto Close Tag
+- Auto Rename Tag
+- Awesome Flutter Snippets
+- Bookmarks
+- Bracket Pair Colorizer
+- Dart
+- File Utils
+- File-Icons
+- Flutter (要装这个，在Flutter doctor里面VS Code那一项才不会Warning）
+- Vim
+- vscode-fileheader
